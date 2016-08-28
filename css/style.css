@@ -36,3 +36,47 @@
 	padding: 20%;
 	display: block
 }
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+
+	h1 {
+		font-size: 26px;
+	}
+
+	h2 {
+		font-size: 20px;
+	}
+
+	span {
+		display: block
+	}
+
+	.header-text-wrap {
+		color:white;
+		padding: 10% 0 0 5%;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+	h1 {
+		font-size: 26px;
+	}
+
+	h2 {
+		font-size: 20px;
+	}
+
+	span {
+		display: block;
+	}
+
+	.header-text-wrap {
+		color:white;
+		padding: 10% 0 0 5%;
+	}
+}
