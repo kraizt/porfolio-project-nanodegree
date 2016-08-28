@@ -1,0 +1,38 @@
+/* override boostrap */
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+.header-cover {
+	background-image:url('../img/header-cover.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+.header-text-wrap {
+	color:white;
+	padding: 5% 30% 0 5%;
+	/* padding: 10% 0 0 5%;  */
+
+}
+
+.container-space {
+	padding: 50px 0;
+}
+
+.container-space h2 {
+	margin-bottom: 40px;
+	text-decoration: underline;
+}
+
+.navbar-margin-top {
+	margin-top: 20px;
+}
+
+.glyphicon-thumbnail {
+	font-size: 10rem;
+	padding: 20%;
+	display: block
+}
