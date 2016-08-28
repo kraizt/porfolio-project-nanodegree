@@ -14,8 +14,6 @@
 .header-text-wrap {
 	color:white;
 	padding: 5% 30% 0 5%;
-	/* padding: 10% 0 0 5%;  */
-
 }
 
 .container-space {
@@ -37,12 +35,10 @@
 	display: block
 }
 
-/* Extra small devices (phones, less than 768px) */
-/* No media query since this is the default in Bootstrap */
+/* Extra css for text readability on phone */
 
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 768px) {
-
 	h1 {
 		font-size: 26px;
 	}
