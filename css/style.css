@@ -5,14 +5,14 @@
 }
 
 .header-cover {
-	background-image:url('../img/header-cover.jpg');
+	background-image: url("../img/header-cover.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 400px;
 }
 
 .header-text-wrap {
-	color:white;
+	color: white;
 	padding: 5% 30% 0 5%;
 }
 
@@ -20,7 +20,7 @@
 	padding: 50px 0;
 }
 
-.row-space h2 {
+.section-header-h2 {
 	margin-bottom: 40px;
 	text-decoration: underline;
 }
@@ -56,7 +56,7 @@
 	}
 
 	.header-text-wrap {
-		color:white;
+		color: white;
 		padding: 10% 0 0 5%;
 	}
 }
@@ -80,7 +80,7 @@
 	}
 
 	.header-text-wrap {
-		color:white;
+		color: white;
 		padding: 10% 0 0 5%;
 	}
 }
